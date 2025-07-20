@@ -34,6 +34,7 @@ qpsk-pluto-pipeline/
 ├── apps/                           # Example pipelines or standalone demos  
 ├── notebooks/                      # Python notebooks for prototyping, design decisions  
 ├── debug/                          # Problem logs and notes  
+├── images/                         # Images of the design process and results
 ├── cmake/                          # CMake modules  
 ├── CMakeLists.txt                  # Top-level CMake  
 └── README.md
